@@ -9,9 +9,9 @@ This project analyzes how trader performance (PnL, ROI) varies under different B
 - Visualize sentiment impact on outcomes
 
 ## 📁 Files
-- `Trader_Sentiment_Analysis.ipynb` – full code notebook
-- `Business_Report.docx` – executive summary of findings
-- `Final_Report.pdf` – ready-to-share version (optional)
+
+- [📘 Trader_Sentiment_Analysis.ipynb](Primetrade.ai%20Assignment.ipynb) – full code notebook  
+- [📄 Business_Report.pdf](Business%20Report.pdf) – final report for business audience  
 
 ## 🖼️ Visuals
 Boxplots, bar charts, and ranking plots used to interpret results.
